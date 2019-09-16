@@ -1,0 +1,22 @@
+
+# dotenv
+.env
+<<<<<<< Updated upstream
+=======
+venv/
+>>>>>>> Stashed changes
+
+# virtualenv
+venv
+.vscode
+.idea
+.mypy_cache/
+
+media/
+*.pyc
+*.pid
+# django migrations
+*.pyc
+*~
+__pycache__
+myvenv
